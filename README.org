@@ -1,0 +1,16 @@
+#+title: Readme
+
+* PlatformIO
+https://docs.platformio.org/en/latest/integration/ide/emacs.html
+#+begin_src shell :exports code
+pio project init --ide emacs
+#+end_src
+
+#+begin_src shell :exports code
+pio project init --ide emacs --board <ID>
+#+end_src
+
+ID for lilygo
+#+begin_src shell :exports code
+lilygo-t-display-s3
+#+end_src
