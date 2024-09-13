@@ -2,4 +2,4 @@
 .clang_complete
 .ccls
 .direnv
-.platform-dir
+.platformio-dir
